@@ -61,7 +61,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseThree" className="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                    Create on 22 June, 2022. Mumbai
+                    Create on 22 June, 2022. Mumbai, Maharashtra.
                     </div>
                     </div>
                 </div>
