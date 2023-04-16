@@ -1,5 +1,6 @@
 ### Live site : https://text-utils-app-prk.netlify.app/
-<hr>
+<hr/>
+
 ## Text Utilities Application
 
 
