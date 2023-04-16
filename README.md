@@ -1,5 +1,7 @@
+### Live site : https://text-utils-app-prk.netlify.app/
+<hr>
 ## Text Utilities Application
-Link to the Live site : https://text-utils-app-prk.netlify.app/
+
 
 The Text Utilities Application is a tool that allows you to perform various functions on any given text. Built using ReactJS, it provides a user-friendly interface to help you analyze your text and make changes as needed. The application comes with both light and dark mode options, so you can use it in any lighting condition.
 Features
