@@ -1,5 +1,5 @@
 # [Live site](https://text-utils-app-prk.netlify.app/)
-<hr/>
+
 
 ## Text Utilities Application
 
