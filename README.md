@@ -25,3 +25,10 @@ The Text Utilities Application was built using the following technologies:
 
    - CSS: A stylesheet language used for describing the presentation of a document written in HTML.
    - Bootstrap: A popular front-end framework used for designing responsive and mobile-first websites.
+
+---
+
+
+https://github.com/parth-khanolkar/text-utility-application/assets/75361189/66da2ea0-3a8b-46ce-ad9b-afd0d3ca9007
+
+
