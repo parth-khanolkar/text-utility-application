@@ -31,4 +31,30 @@ The Text Utilities Application was built using the following technologies:
 
 https://github.com/parth-khanolkar/text-utility-application/assets/75361189/66da2ea0-3a8b-46ce-ad9b-afd0d3ca9007
 
+---
+Installation
+
+To run the Text Utils locally, follow these steps:
+
+   Clone the repository:
+
+     git clone https://github.com/parth-khanolkar/text-utility-application.git
+
+   Navigate to the project directory:
+
+
+     cd text-utility-application
+
+   Install the required dependencies:
+
+
+     npm install
+
+   Start the development server:
+
+
+    npm start
+
+   Open your browser and visit http://localhost:3000 to view the Text Utils website.
+
 
